@@ -16,3 +16,6 @@
 
 # Files with cards
 *.cards
+
+# GoLand files
+.idea
